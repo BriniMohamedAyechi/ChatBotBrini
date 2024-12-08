@@ -124,6 +124,8 @@ celerybeat.pid
 
 # Environments
 .chat_env/
+.chatenv/
+chatenv
 .env
 .venv
 env/
